@@ -1,4 +1,10 @@
-### Hi there 👋
+### :red_circle::black_circle:
+- Rennaaaaais, quelle est votre couleuuuuur ?
+- Pour les latéraux gay-friendly
+- Second poteau Danzéééééé
+- #Bouri4Capi
+- :hedgehog:
+
 
 <!--
 **Roppick/Roppick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
