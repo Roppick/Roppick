@@ -22,6 +22,8 @@ ___
 - [_Position des Tirs Concédés_](https://github.com/Roppick/2022-2023_Equipe/blob/fe7bfb263fd76c4da20032407b8d415b91b69358/23-08-02_Position%20Tirs%20conc%C3%A9d%C3%A9s_rogn%C3%A9.jpg)
 - [_Position des Tirs Tentés_](https://github.com/Roppick/2022-2023_Equipe/blob/fe7bfb263fd76c4da20032407b8d415b91b69358/23-08-01_Position%20Tirs%20tent%C3%A9s_rogn%C3%A9.jpg)
 
+## 🔀 **Actions amenant les tirs**
+- [Infographie](https://github.com/Roppick/2022-2023_Equipe/blob/a09e8c65da35cb1f9f6e2ec2d3a0529d7548afdf/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
 ___
   
 # [_Statistiques Individuelles_](https://github.com/Roppick/2022-2023_Individuelles/blob/72767f8ce4bdc50d007a937449ea08a8c7d0ea01/README.md)
