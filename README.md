@@ -25,6 +25,9 @@ ___
 
 ## 🔀 **Actions amenant les tirs**
 - [Infographie](https://github.com/Roppick/2022-2023_Equipe/blob/a09e8c65da35cb1f9f6e2ec2d3a0529d7548afdf/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
+
+## 👶👴 **Moyenne d'âge**
+- [_Moyenne d'âge pondérée sur 10 saisons_](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
 ___
 # [_Statistiques Individuelles_](https://github.com/Roppick/2022-2023_Individuelles/blob/72767f8ce4bdc50d007a937449ea08a8c7d0ea01/README.md)
 ![Banière_Individuelles.](https://github.com/Roppick/Roppick/blob/86e8f825db73b0d5207440511142f31cd933e421/Doku_Jeremy_0.jpg)
