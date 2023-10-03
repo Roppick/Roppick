@@ -8,7 +8,7 @@
 - "Laaaa La Lalala La, Lalala La, Bouriiiiiiii" (:notes:Hey Jude:notes:)
 - :hedgehog:
 
-**Que vous arriviez depuis mon compte [Twitter](https://twitter.com/Roppick) ou d'une autre manière, vous êtes les bienvenues ici.**
+**Que vous arriviez depuis mon compte [Twitter](https://twitter.com/Roppick) ou d'une autre manière 😸 [BlueSky](https://bsky.app/profile/roppick.bsky.social), vous êtes les bienvenues ici.**
 * J'essaie de faire, qd j'ai un peu de temps, des visualisations de données sur le SRFC 🔴⚫ (#dataSRFC).
 * J'utilise des données en accès libre et travaille pour le moment en utilisant la suite office (je débute en R, mais je ne fais rien de beau pour le moment :pig:).
 * Les #dataviz sont publiées sur Twitter, mais sont accessibles en bonne résolution ci-dessous.
@@ -17,8 +17,9 @@
 ___
 # [ Histoire ](https://github.com/Roppick/Histoire.git)
 ![Banière Histoire](https://github.com/Roppick/Roppick/blob/5a9e22c232930e3ce8d41daf414b3ec72e0b59d3/Ancienne-photo-SRFC_am%C3%A9lio.jpg)
-## [ Club ]()
-- [ Résultat du SRFC depuis 20ans]()
+## [ Club ](https://github.com/Roppick/Histoire/tree/main#club)
+- [ Résultat du SRFC depuis 20ans ](https://github.com/Roppick/Histoire/blob/7447b5d8429a2483295dc4d589f72d0b53e1d31c/23-09-04_Histoires_R%C3%A9sultats_20%20ans.jpg)
+- [ Nombre de défaits par saison depuis 20 ans](https://github.com/Roppick/Histoire/blob/5a6c1718c676ea034592d72d09904a00c6aad957/23-09-04_Nombre%20de%20d%C3%A9faites_20%20ans.jpg)
 - [_Moyenne d'âge pondérée sur 10 saisons_](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
 
 ___
