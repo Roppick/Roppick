@@ -20,13 +20,18 @@ ___
 ## [ Club ](https://github.com/Roppick/Histoire/tree/main#club)
 - [ Résultat du SRFC depuis 20ans ](https://github.com/Roppick/Histoire/blob/7447b5d8429a2483295dc4d589f72d0b53e1d31c/23-09-04_Histoires_R%C3%A9sultats_20%20ans.jpg)
 - [ Nombre de défaits par saison depuis 20 ans](https://github.com/Roppick/Histoire/blob/5a6c1718c676ea034592d72d09904a00c6aad957/23-09-04_Nombre%20de%20d%C3%A9faites_20%20ans.jpg)
+- [Elo dans l'histoire](https://github.com/Roppick/Histoire/blob/82d21ee09e4a8cd4b4e2cc3042131ee39ad0f4b1/23-04-13_Elo_92.png)
 - [_Moyenne d'âge pondérée sur 10 saisons_](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
 
 ___
 ## [ Joueurs](https://github.com/Roppick/Histoire#%EF%B8%8F-joueurs)
 ![Banière Histoire Joueurs](https://github.com/Roppick/Roppick/blob/7f8072764cc7d47fff6de924e9f11fd3c3a9e859/Terrier_Martin_3.jpg)
 - [ Doku - Un passage en chiffres](https://github.com/Roppick/Histoire/blob/5159ae72d56b1319152e63df2d9505a9ea922153/23-08-28_Tableau_Doku_SRFC_3.jpg)
-
+- [ Doku - Des blessures et des dribbles](https://github.com/Roppick/Histoire/blob/25274de39d3968da11179259b8574193eb3bf413/23-08-26_Blessures%20et%20dribbles.png)
+- [ Bourigeaud - Ses passeurs](https://github.com/Roppick/Histoire/blob/f9c5edb6b871b65f6c4ecdb29416828e0d646da1/23-10-21_Sankey_Circulaire_5_ans_Bouri_Buts.png)
+- [Bourigeaud - Du caviar pour tout le monde](https://github.com/Roppick/Histoire/blob/73aa3772930e74151dfae6962c77c092e60ee253/23-10-21_Sankey_Circulaire_5_ans_Bouri_PD.png)
+- [Doué - Passes et Dribbles](https://github.com/Roppick/Histoire/blob/ff34c6a3a05e8d65caa6548ff046d3381efc649f/23-09-04_Passes%20et%20Dribbles.jpg)
+- [Doué - Distance et Pertes](https://github.com/Roppick/Histoire/blob/ff34c6a3a05e8d65caa6548ff046d3381efc649f/23-09-05_Distance%20et%20Pertes.jpg)
 ___
 # 2023-2024
 ## [ Calendrier et Tirages ]
