@@ -34,7 +34,7 @@ ___
 - [Doué - Distance et Pertes](https://github.com/Roppick/Histoire/blob/ff34c6a3a05e8d65caa6548ff046d3381efc649f/23-09-05_Distance%20et%20Pertes.jpg)
 ___
 # 2023-2024
-## [_Calendrier et Tirages_]
+## :date: Calendrier et Tirages
 - [Calendrier - Intensité de calendrier au démarrage de la saison](https://github.com/Roppick/2023-2024_Equipe/blob/05b64e331e07c4aa2d28ce88324fb0c4b43cf93d/23-07-07_Intensit%C3%A9_Calendrier.png) 
 - [Calendrier - 10 premiers matchs](https://github.com/Roppick/2023-2024_Equipe/blob/7fb052ccd3ef0d419328087b3d250413c0d8fd81/23-08-11_10%20premiers%20matchs.jpg)
 - [Tirage - Evaluation tirage Europa League](https://github.com/Roppick/2023-2024_Equipe/blob/d42f079a99fc457b5d222d06e22648a25725c8fc/23-09-13_Tirage_Europa_League_final.jpg)
